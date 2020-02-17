@@ -1,2 +1,3 @@
 # ToDolist
-a small project for ToDoList app based on html, css and js
+
+The application for add and delete the to do list based on the html, js and css
