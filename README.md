@@ -1,3 +1,3 @@
 # ToDolist
 
-The application for add and delete the to do list based on the html, js and css
+The application for adding and deleting the to do list based on the html, js and css.
